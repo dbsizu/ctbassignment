@@ -1,14 +1,14 @@
-## Student Number as per your student card:
+### Student Number as per your student card:
 
-# Izuchukwu Osuchukwu ID: 10601305
+### Izuchukwu Osuchukwu ID: 10601305
 	
-# Lecturer Name: Paul Laird
+### Lecturer Name: Paul Laird
 
-# Module/Subject Title: B9MG119 Cloud Technologies for Business
+### Module/Subject Title: B9MG119 Cloud Technologies for Business
 
-# Assignment Title: Cloud Strategy and Sample Deployment
+### Assignment Title: Cloud Strategy and Sample Deployment
 
-# No of Words: 927 words
+### No of Words: 927 words
 
 
 # Background of the Enterprise
