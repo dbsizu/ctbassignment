@@ -1,3 +1,16 @@
+# Student Number as per your student card:
+
+# Izuchukwu Osuchukwu ID: 10601305
+	
+# Lecturer Name: Paul Laird
+
+# Module/Subject Title: B9MG119 Cloud Technologies for Business
+
+# Assignment Title: Cloud Strategy and Sample Deployment
+
+# No of Words: 927 words
+
+
 # Background of the Enterprise
 
 Kepak is one of Ireland's leading meat producers, with 15 manufacturing facilities in Ireland   and the UK. Known for its meat craft, quality and outstanding customer service; Kepak is grounded in nature and dedicated to animal welfare. In addition, innovation and inspirational nutrition drives its business forward ref. 
