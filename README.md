@@ -46,3 +46,29 @@ IaaS Deployment for Hardware Components: One of the major advantage of cloud com
 PaaS Deployment for Software Components: There are various software applications that Kepak uses for the daily running of its business which are critical to its success. Most of these applications are hosted on-premise which can result in data loss; however deploying same to the cloud will help to curb this.
 
 # References
+About Kepak (2019) Kepak. Available at: https://www.kepak.com/about/#:~:text=Kepak%20is%20one%20of%20Ireland's,of%20nature%20and%20our%20communities. (Accessed: November 21, 2022). 
+
+Fisher, C. (2018) “Cloud versus on-premise computing,” American Journal of Industrial and Business Management, 08(09), pp. 1991–2006. Available at: https://doi.org/10.4236/ajibm.2018.89133. 
+
+Gartner says cloud will be the centerpiece of new digital experiences (no date) Gartner. Available at: https://www.gartner.com/en/newsroom/press-releases/2021-11-10-gartner-says-cloud-will-be-the-centerpiece-of-new-digital-experiences (Accessed: November 22, 2022). 
+
+Gartner_Inc (no date) Cloud shift impacts all it markets, Gartner. Available at: https://www.gartner.com/smarterwithgartner/cloud-shift-impacts-all-it-markets (Accessed: November 22, 2022). 
+
+Glatz, R. (2022) Cloud vs non-cloud solution project delivery – similar but different, Seven Consulting. Available at: https://www.sevenconsulting.com/cloud-vs-non-cloud-solution-project-delivery-similar-but-different/ (Accessed: November 23, 2022). 
+
+History (2019) Kepak. Available at: https://www.kepak.com/about/history/ (Accessed: November 20, 2022). 
+
+How Chilli it support Kepak's IT infrastructure (no date) Chilli IT. Available at: https://www.chilli-it.co.uk/blog-how-chilli-it-support-kepaks-business-critical-it-infrastructure/ (Accessed: November 23, 2022). 
+
+Kepak Group is Ireland’s most innovative meat company with a rich heritage of over 50 years of meat craft. (no date) www.irishfoodanddrink.com. Irish Food &amp; Drink. Available at: https://www.irishfoodanddrink.com/suppliers/kepak-group/ (Accessed: November 20, 2022). 
+
+Khan, A.R. (2017) “Infrastructure as a Service: an Overview and its Impact on Digital Libraries,” International Journal of Next Generation Computer Applications, 4(1), pp. 4–7. 
+
+Six advantages of cloud computing (no date) Amazon. Earthpledge Foundation. Available at: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html (Accessed: November 22, 2022). 
+
+Types of cloud computing (no date) Redhat. Available at: https://www.redhat.com/en/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud (Accessed: November 21, 2022). 
+
+Vailshery, L.S. (2022) Cloud computing benefits worldwide 2020, Statista. Available at: https://www.statista.com/statistics/1236805/cloud-computing-benefits/ (Accessed: November 22, 2022).
+
+Kepak Group is Ireland’s most innovative meat company with a rich heritage of over 50 years of meat craft. (no date) www.irishfoodanddrink.com. Irish Food &amp; Drink. Available at: https://www.irishfoodanddrink.com/suppliers/kepak-group/ (Accessed: November 20, 2022).
+
