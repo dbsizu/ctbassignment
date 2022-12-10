@@ -11,7 +11,7 @@
 ### No of Words: 927 words
 
 
-![My Remote Image](https://www.kepak.com/wp-content/themes/kepak/assets/images/kepak-logo.png)
+![My Remote Image](https://pbs.twimg.com/profile_images/827525156369268736/t1whwjl2_400x400.jpg)
 
 
 # Background of the Enterprise
