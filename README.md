@@ -11,6 +11,9 @@
 ### No of Words: 927 words
 
 
+![My Remote Image](https://www.kepak.com/wp-content/themes/kepak/assets/images/kepak-logo.png)
+
+
 # Background of the Enterprise
 
 Kepak is one of Ireland's leading meat producers, with 15 manufacturing facilities in Ireland   and the UK. Known for its meat craft, quality and outstanding customer service; Kepak is grounded in nature and dedicated to animal welfare. In addition, innovation and inspirational nutrition drives its business forward (About Kepak, 2019). 
