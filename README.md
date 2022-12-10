@@ -30,7 +30,7 @@ Across 43 countries, Kepak employs over 5,000 people to deliver prime cuts of fr
 # Current IT Setup
 
 
-![My Remote Image](https://yt3.ggpht.com/ytc/AMLnZu9E-43qifCN9rq089vEfaMUBWeFm-IHLeP4g0Od=s900-c-k-c0x00ffffff-no-rj)
+![My Remote Image](https://[yt3.ggpht.com/ytc/AMLnZu9E-43qifCN9rq089vEfaMUBWeFm-IHLeP4g0Od=s900-c-k-c0x00ffffff-no-rj](https://media-exp1.licdn.com/dms/image/C4E0BAQHZF_bRFpA9Kg/company-logo_200_200/0/1519889647785?e=2147483647&v=beta&t=yG_-bdZe0Lqutn8vfBU_1VgqtOsqc0CLQdiYaJ3CNhQ))
 
 Information Technology infrastructure refers to everything needed to deliver IT services within an organization, including hardware, software, and network resources.  IT infrastructure can be used internally within an organization, or externally, to deliver services or resources to its customers. A company's IT infrastructure serves as a means to drive efficiency and value creation through the use of technology, whether it is to enable software developers to follow their specific development methodology or to enable other types of organizations to leverage technology. An organization's IT infrastructure provides the structure needed to effectively manage all its technology and tools (Khan, 2017). 
 
